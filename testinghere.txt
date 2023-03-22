@@ -1,0 +1,3 @@
+Dette er e litt av en test
+Her er linje 2
+Og her er linje 3
