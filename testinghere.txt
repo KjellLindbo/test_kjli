@@ -7,3 +7,6 @@ linje 4
 
 Editing at github
 Editing again
+
+Editing locally
+
